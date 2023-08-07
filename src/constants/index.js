@@ -245,7 +245,7 @@ const projects = [
       },
       {
         name: "MongoDB",
-        color: 
+        color:
           "text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700"
       },
       {
